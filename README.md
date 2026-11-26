@@ -23,7 +23,7 @@ Power-management changes did not provide a lasting fix. Disabling `amd_pstate` d
 
 ## Repair challenges
 
-During the swap, I dealt with a difficult battery screw, protective sheets and cable routing, and small ribbon-cable latches. I transferred the Wi-Fi card and reconnected its MAIN and AUX antenna leads. I also checked the heatsink, thermal contact, fan connection, and exhaust path during reassembly. An unpopulated connector for an optional smart-card reader did not by itself indicate a missing required part.
+During the swap, I dealt with a difficult battery screw, protective sheets and cable routing, and small ribbon-cable latches. I transferred the Wi-Fi card and reconnected its MAIN and AUX antenna leads. I cleaned the old thermal compound from the heatsink and processor contact surfaces with alcohol wipes, applied fresh compound, and reinstalled the heatsink. I checked the fan connection and exhaust path during reassembly. An unpopulated connector for an optional smart-card reader did not by itself indicate a missing required part.
 
 ## Outcome
 
@@ -54,7 +54,7 @@ The photos show the Linux log excerpt, the laptop opened during the board swap, 
 
 ![Thermal compound visible on the ThinkPad heatsink](heatsink-thermal-paste.webp)
 
-*The heatsink after removal, showing the thermal compound before reassembly.*
+*I took this photo before removing the old thermal compound. I cleaned the contact surfaces with alcohol wipes, applied fresh compound, and reinstalled the heatsink during reassembly.*
 
 ![ThinkPad system board, component side](motherboard-component-side.webp)
 
