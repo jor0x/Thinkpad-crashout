@@ -33,16 +33,33 @@ This is my personal repair record, reconstructed from troubleshooting notes, scr
 
 ## Photos from the repair
 
-The first photo shows the Linux log excerpt I used while investigating the resets. The two hardware photos show the laptop opened during the board repair.
+The photos show the Linux log excerpt, the laptop opened during the board swap, hands-on details, thermal compound, and views of the system board.
 
 ![Linux terminal log showing the October 1 AMD reset and watchdog messages](linux-reset-log.webp)
 
 *October 1 Linux log excerpt. I left the exploratory commands in the photo so it reflects the actual troubleshooting session.*
 
-![ThinkPad opened with a system board placed beside the chassis during repair](board-and-open-chassis.webp)
+![Two ThinkPad system boards shown during the motherboard swap](board-and-open-chassis.webp)
 
-*The opened laptop and a system board laid beside it during the repair.*
+*Two system boards are visible: one loose beside the open laptop and one still in the chassis during the swap.*
 
 ![Full view of the opened ThinkPad L14 internal components](open-laptop-internals.webp)
 
 *Full internal view of the laptop during the repair.*
+
+
+![Gloved hand working beside the battery and memory area during disassembly](gloved-hand-during-disassembly.webp)
+
+*My gloved hand beside the battery and memory area during disassembly.*
+
+![Thermal compound visible on the ThinkPad heatsink](heatsink-thermal-paste.webp)
+
+*The heatsink after removal, showing the thermal compound before reassembly.*
+
+![ThinkPad system board, component side](motherboard-component-side.webp)
+
+*A close view of the board’s component side.*
+
+![ThinkPad system board with its protective shielding](motherboard-shield-side.webp)
+
+*A view of the board with its protective shielding in place.*
