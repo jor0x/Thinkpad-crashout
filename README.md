@@ -30,3 +30,19 @@ During the swap, I dealt with a difficult battery screw, protective sheets and c
 By November 25, 2026, I had several weeks of normal use without the recurring crashes. The repair strongly supports a fault involving the original motherboard assembly or a connection affected during replacement. I did not identify the exact failed component, and changing the whole board also changed several things at once.
 
 This is my personal repair record, reconstructed from troubleshooting notes, screenshots, and my observations. It is not a manufacturer forensic diagnosis. The accompanying detailed case report has the test results and limitations.
+
+## Photos from the repair
+
+The first photo shows the Linux log excerpt I used while investigating the resets. The two hardware photos show the laptop opened during the board repair.
+
+![Linux terminal log showing the October 1 AMD reset and watchdog messages](Photos/GitHub/linux-reset-log.webp)
+
+*October 1 Linux log excerpt. I left the exploratory commands in the photo so it reflects the actual troubleshooting session.*
+
+![ThinkPad opened with a system board placed beside the chassis during repair](Photos/GitHub/board-and-open-chassis.webp)
+
+*The opened laptop and a system board laid beside it during the repair.*
+
+![Full view of the opened ThinkPad L14 internal components](Photos/GitHub/open-laptop-internals.webp)
+
+*Full internal view of the laptop during the repair.*
