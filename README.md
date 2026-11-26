@@ -35,14 +35,14 @@ This is my personal repair record, reconstructed from troubleshooting notes, scr
 
 The first photo shows the Linux log excerpt I used while investigating the resets. The two hardware photos show the laptop opened during the board repair.
 
-![Linux terminal log showing the October 1 AMD reset and watchdog messages](Photos/GitHub/linux-reset-log.webp)
+![Linux terminal log showing the October 1 AMD reset and watchdog messages](linux-reset-log.webp)
 
 *October 1 Linux log excerpt. I left the exploratory commands in the photo so it reflects the actual troubleshooting session.*
 
-![ThinkPad opened with a system board placed beside the chassis during repair](Photos/GitHub/board-and-open-chassis.webp)
+![ThinkPad opened with a system board placed beside the chassis during repair](board-and-open-chassis.webp)
 
 *The opened laptop and a system board laid beside it during the repair.*
 
-![Full view of the opened ThinkPad L14 internal components](Photos/GitHub/open-laptop-internals.webp)
+![Full view of the opened ThinkPad L14 internal components](open-laptop-internals.webp)
 
 *Full internal view of the laptop during the repair.*
