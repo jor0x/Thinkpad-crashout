@@ -60,6 +60,6 @@ The photos show the Linux log excerpt, the laptop opened during the board swap, 
 
 *A close view of the board’s component side.*
 
-![ThinkPad system board with its protective shielding](motherboard-shield-side.webp)
+![ThinkPad system board with its protective shielding](motherboard-shield-side-crop.webp)
 
 *A view of the board with its protective shielding in place.*
